@@ -1,4 +1,4 @@
-# Hi，我是 AZ123IT
+# Hi，
 
 我关注全栈 AI 应用开发，主要方向是 RAG、AI Agent、Next.js、FastAPI、Supabase、LangGraph 和微信小程序。  
 我更倾向于把 AI 能力做成可运行、可解释、可展示的产品 demo，而不是只停留在 prompt、notebook 或单次 API 调用。
