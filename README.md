@@ -4,8 +4,6 @@ I build evidence-first RAG and AI Agent applications with **Next.js**, **FastAPI
 
 My focus is turning LLM capabilities into usable full-stack systems: document ingestion, retrieval, citations, guarded synthesis, tool traces, evaluation, and clean developer experience.
 
-中文简介：我关注全栈 AI 应用工程，尤其是 RAG、AI Agent、文档智能、证据引用、工具调用追踪和可复现实验评估。
-
 ## Featured Projects
 
 | Project | What it demonstrates | Stack | Engineering highlights |
